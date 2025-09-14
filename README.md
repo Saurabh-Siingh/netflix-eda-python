@@ -49,3 +49,8 @@ The dataset contains information about popular movies, including:
 ---
 
 
+## Authors
+
+- [@Saurabh Siingh](https://www.github.com/Saurabh-Siingh)
+- [LinkedIn](https://www.linkedin.com/in/saurabh-singh-704493281/)
+- Email : saurabh.singh807645@gmail.com
