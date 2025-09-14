@@ -47,8 +47,22 @@ The dataset contains information about popular movies, including:
 - Jupyter Notebook
 
 ---
+## Key Visuals
+<img width="748" height="762" alt="image" src="https://github.com/user-attachments/assets/a1072517-1fdb-4af5-8b58-16d23df3cc63" />
+<img width="750" height="763" alt="image" src="https://github.com/user-attachments/assets/a0cbb24a-383e-455c-9ccb-d2a283b63433" />
+<img width="841" height="637" alt="image" src="https://github.com/user-attachments/assets/01763a35-b6d2-413f-856a-5c09c885f014" />
 
 
+---
+## Conclusion
+
+- Drama genre is the most frequent genre in our dataset and has appeared more than 14% of the times among 19 other genres.
+- We have 25.5% of our dataset with popular vote (6520 rows). Drama again gets the highest popularity among fans by being having more than 18.5% of movies popularities.
+- Spider-Man: No Way Home has the highest popularity rate in our dataset and it has genres of Action , Adventure and Sience Fiction .
+- The united states, thread' has the highest lowest rate in our dataset and it has genres of music , drama , 'war', 'sci-fi' and history`.
+- Year 2020 has the highest filmming rate in our dataset.
+
+---
 ## Authors
 
 - [@Saurabh Siingh](https://www.github.com/Saurabh-Siingh)
